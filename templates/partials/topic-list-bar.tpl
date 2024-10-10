@@ -24,6 +24,7 @@
 				<!-- IMPORT partials/category/filter-dropdown-left.tpl -->
 				<!-- IMPORT partials/tags/watch.tpl -->
 				{{{ end }}}
+				<!-- IMPORT partials/category/saved.tpl -->
 				<!-- IMPORT partials/category/tools.tpl -->
 
 				{{{ if (!feeds:disableRSS && rssFeedUrl) }}}
